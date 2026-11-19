@@ -1,0 +1,6 @@
+{
+  "name": "FSSAI Form C License Generator",
+  "description": "Official FSSAI Form C food business license data collection studio and 7-page A4 PDF replica generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
